@@ -1,0 +1,11 @@
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\bin\Release\netcoreapp2.2\win-x64\DataBaseResearch.exe
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\bin\Release\netcoreapp2.2\win-x64\DataBaseResearch.deps.json
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\bin\Release\netcoreapp2.2\win-x64\DataBaseResearch.runtimeconfig.json
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\bin\Release\netcoreapp2.2\win-x64\DataBaseResearch.runtimeconfig.dev.json
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\bin\Release\netcoreapp2.2\win-x64\DataBaseResearch.dll
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\bin\Release\netcoreapp2.2\win-x64\DataBaseResearch.pdb
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\obj\Release\netcoreapp2.2\win-x64\DataBaseResearch.csproj.CoreCompileInputs.cache
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\obj\Release\netcoreapp2.2\win-x64\DataBaseResearch.AssemblyInfoInputs.cache
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\obj\Release\netcoreapp2.2\win-x64\DataBaseResearch.AssemblyInfo.cs
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\obj\Release\netcoreapp2.2\win-x64\DataBaseResearch.dll
+C:\Users\micjan11\source\repos\DataBaseResearch\DataBaseResearch\obj\Release\netcoreapp2.2\win-x64\DataBaseResearch.pdb
